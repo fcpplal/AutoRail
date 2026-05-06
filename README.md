@@ -1,3 +1,7 @@
+⚠️ 严正声明 (License & Copyright)
+本项目采用 CC BY-NC 4.0 协议进行分发。
+无论你是直接 Fork、修改源码还是重新分发，都必须保留原作者的署名，且严禁用于任何商业牟利行为。一经发现侵权，作者保留追究责任的权利。
+
 # 🚀 科学上网节点极速部署指南 (Sing-box + Cloudflare Tunnel)
 
 本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 `sing-box` 和 `cloudflared`，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。
