@@ -10,11 +10,5 @@
       "transport": { "type": "ws", "path": "/vless" }
     }
   ],
-  "outbounds": [{ "type": "direct", "tag": "direct" }],
-  "experimental": {
-    "clash_api": {
-      "external_controller": "0.0.0.0:8080",
-      "external_ui": "."
-    }
-  }
+  "outbounds": [{ "type": "direct", "tag": "direct" }]
 }
